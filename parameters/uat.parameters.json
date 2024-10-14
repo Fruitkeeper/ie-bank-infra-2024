@@ -7,7 +7,7 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "luisgomezacebo-dbsrv-uat"
+            "value": "lgomezacebo-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
             "value": "lgomezacebo-db-uat"
