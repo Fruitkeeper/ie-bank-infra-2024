@@ -7,19 +7,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "lgomezacebo-dbsrv-dev"
+            "value": "luisgomezacebo-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "lgomezacebo-db-dev"
+            "value": "lgomezacebo-db-uat"
         },
         "appServicePlanName": {
-            "value": "lgomezacebo-asp-dev"
+            "value": "lgomezacebo-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "lgomezacebo-be-dev"
+            "value": "lgomezacebo-be-uat"
         },
         "appServiceAppName": {
-            "value": "lgomezacebo-fe-dev"
+            "value": "lgomezacebo-fe-uat"
         },
         "location": {
             "value": "North Europe"
